@@ -4,10 +4,8 @@ email: laurenpapineau04@gmail.com
 baseurl: "/portfolio-site/"
 
 collections:
-	design:
-		output: true
+design:
+output: true
 		
-	photoshop:
-		Output: true
-
+	
 
