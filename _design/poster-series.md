@@ -20,4 +20,4 @@ This poster series was created to explore how typography can communicate emotion
 
 ## Outcomes
 
-This project hepled develop a stronger sense of visual hierarchy and gave the opprotunity to experiment with type-as-
+This project hepled develop a stronger sense of visual hierarchy and gave the opprotunity to experiment with type-as-image.
