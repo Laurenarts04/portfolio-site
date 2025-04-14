@@ -11,17 +11,15 @@ title: "Design Projects"
 		<h2>{{ design.title }}</h2>
 			
 			{{% if design.tools %}}
-			<p>
 			
-				<strong>Tools:</strong>{{ design.tools | join: ", " }}
-			
-			</p>
+			<p><strong>Tools:</strong>{{ design.tools | join: ", " </p>
 		
 			{{% endif %}}
-			
+	
+			{{% if design.description %}}
 			<p>{{ design.description }}</p>
 			
-			<a href="{{ design.url }}">View Project</a>
+			<a href="{{ site.baseurl }}/{{ design.url }}">View Project</a>
 			
 		</div>
 	{% endfor %}
