@@ -2,7 +2,9 @@
 title: "Website Redesign"
 tools: [Photoshop]
 description: "A typographic poster series exploring contrast, scale and rhythm."
-layout: design
+layout: 
+permalink:
+
 ---
 
 

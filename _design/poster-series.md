@@ -2,7 +2,9 @@
 title: "Poster Series"
 tools: [Photoshop, Indesign]
 description: "A typographic poster series exploring contrast, scale and rhythm."
-layout: design
+layout: 
+permalink:
+
 ---
 
 

@@ -1,4 +1,4 @@
-title: Lauren Papineau Portfolio
+nkintitle: Lauren Papineau Portfolio
 name: Lauren Papineau
 email: laurenpapineau04@gmail.com
 baseurl: "/portfolio-site/"
@@ -6,4 +6,4 @@ baseurl: "/portfolio-site/"
 collections:
 design:
 output: true
-permalink: /design/:name/
+permalink: /:collection/:path/

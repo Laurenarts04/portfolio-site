@@ -3,6 +3,8 @@ title: "Brand Identity"
 tools: [Illustrator, Indesign]
 description: "A typographic poster series exploring contrast, scale and rhythm."
 layout: design
+permalink:
+
 ---
 
 
